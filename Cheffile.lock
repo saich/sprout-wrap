@@ -117,10 +117,19 @@ PATH
       sprout-osx-settings (>= 0.0.0)
       sprout-pivotal (>= 0.0.0)
 
+PATH
+  remote: site-cookbooks/regular
+  specs:
+    regular (0.1.1)
+      pivotal_workstation (>= 0.0.0)
+      sprout-osx-apps (>= 0.0.0)
+      sprout-pivotal (>= 0.0.0)
+
 DEPENDENCIES
   meta (>= 0)
   osx (>= 0)
   pivotal_workstation (>= 0)
+  regular (>= 0)
   sprout-homebrew (>= 0)
   sprout-osx-apps (>= 0)
   sprout-osx-base (>= 0)

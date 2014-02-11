@@ -41,5 +41,5 @@ If you're running under rvm or rbenv, you shouldn't preface the following comman
 
 [You may want to modify your Energy Saver preferences (**System Preferences &rarr; Energy Saver &rarr; Computer Sleep &rarr; 3hrs**) because soloist usually takes 2-3 hours to complete.]
 
-    bundle exec soloist
+    sudo bundle exec soloist
 

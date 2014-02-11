@@ -20,3 +20,10 @@ recipes:
 - sprout-osx-apps::dropbox
 - sprout-osx-apps::vlc
 - sprout-osx-apps::evernote
+- regular::utorrent
+
+# basic geek
+- sprout-osx-apps::sublime_text
+- sprout-osx-apps::sourcetree
+- sprout-osx-apps::virtualbox
+- sprout-osx-apps::alfred

@@ -3,6 +3,9 @@ site 'http://community.opscode.com/api/v1'
 cookbook 'meta',
   :path => 'site-cookbooks/meta'
 
+cookbook 'regular',
+  :path => 'site-cookbooks/regular'
+
 cookbook 'sprout-osx-rbenv',
   :git => 'git://github.com/pivotal-sprout/sprout.git',
   :path => 'sprout-osx-rbenv'
