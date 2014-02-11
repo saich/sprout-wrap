@@ -1,0 +1,11 @@
+maintainer        'Sai Prasad'
+maintainer_email  'saiprasad.ch@gmail.com'
+license           'MIT'
+description       'Configures a Mac OS X for regular home usage.'
+long_description  'Configures a Mac OS X for non-geeky regular home usage. Includes: Productivity apps, entertainment apps etc.'
+version           '0.1.1'
+supports          'mac_os_x'
+
+depends           'pivotal_workstation'
+depends           'sprout-osx-apps'
+depends           'sprout-pivotal'
